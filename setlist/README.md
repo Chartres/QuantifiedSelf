@@ -37,7 +37,9 @@ This environment has **no Spotify API connection**, so I can't push the playlist
 1. <https://www.tunemymusic.com> → *Let's Start* → source **"Paste text / file"**.
 2. Paste an `import_*.txt`, pick Spotify as destination, log in, convert.
 
-**Option C — by hand:** every artist in the `.md` files has a 🔍 Spotify search link; click it, drag the songs into a new playlist.
+**Option C — CLI script (`create_playlists.py`):** a tiny Python/`spotipy` script that opens your browser for a one-time Spotify login, then builds all four playlists automatically from the `import_*.txt` files (fuzzy-matches each line, reports anything it couldn't find). Needs a one-time free Spotify "app" registration for a client ID — full setup steps are in the script's header. Run `python3 create_playlists.py` (or pass `01 03` to do just some).
+
+**Option D — by hand:** every artist in the `.md` files has a 🔍 Spotify search link; click it, drag the songs into a new playlist.
 
 ---
 
