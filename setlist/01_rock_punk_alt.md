@@ -146,9 +146,17 @@ Guitars, riffs, circle pits and singalongs. Import list: [`import_01_rock_punk_a
 
 ---
 
+### President — Well-known (Fri) · [🔍](https://open.spotify.com/search/President%20band)
+*Masked-metal buzz band; debut EP* King of Terrors *(2025).*
+- In the Name of the Father
+- Rage
+- Destroy Me
+- Fearless
+
+---
+
 ### 🔎 Newer / buzz rock acts — grab their Spotify Top 3
 I didn't want to invent titles for these, so click through and add their top tracks:
-- **President** (Fri) — masked-metal buzz band · [🔍](https://open.spotify.com/search/President%20band)
 - **Unpeople** (Sun) · [🔍](https://open.spotify.com/search/Unpeople)
 - **The Butcher Sisters** (Sun) · [🔍](https://open.spotify.com/search/The%20Butcher%20Sisters)
 - **Anda Morts** (Fri) · [🔍](https://open.spotify.com/search/Anda%20Morts)

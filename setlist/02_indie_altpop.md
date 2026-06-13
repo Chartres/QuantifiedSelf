@@ -94,8 +94,18 @@ Big choruses, dream-pop, alt-pop and festival-field sunsets. Import list: [`impo
 
 ---
 
+### Picture Parlour — (Sat) · [🔍](https://open.spotify.com/search/Picture%20Parlour)
+- Norwegian Wood
+- Judgement Day
+- Around the Bend
+
+### Røry — (Sat) · [🔍](https://open.spotify.com/search/R%C3%B8ry)
+- You're Mine
+- Dancing in the Flames
+- One Drink Away
+
+---
+
 ### 🔎 Newer / buzz indie acts — grab their Spotify Top 3
-- **Picture Parlour** (Sat) · [🔍](https://open.spotify.com/search/Picture%20Parlour)
-- **Røry** (Sat) · [🔍](https://open.spotify.com/search/R%C3%B8ry)
 - **Florence Road** (Sat) · [🔍](https://open.spotify.com/search/Florence%20Road%20band)
 - **The Sophs** (Sat) · [🔍](https://open.spotify.com/search/The%20Sophs)

@@ -40,6 +40,12 @@ Deutschsprachige Acts — von Indie-Rock über Deutschrap bis Schlager-Pop. Impo
 - Warum
 - November
 
+### Finch — Well-known (Sat) · [🔍](https://open.spotify.com/search/Finch%20Asozial)
+- Liebe auf der Rückbank
+- Herzalarm
+- Abfahrt
+- Ostdeutscher Hasselhoff
+
 ### Sondaschule — Well-known (Fri) · [🔍](https://open.spotify.com/search/Sondaschule)
 - Endlich Wochenende
 - Einmal mit Profis
@@ -50,37 +56,57 @@ Deutschsprachige Acts — von Indie-Rock über Deutschrap bis Schlager-Pop. Impo
 - 216
 - Drako
 
+### SSIO — Well-known (Sat) · [🔍](https://open.spotify.com/search/SSIO)
+- Nullkommanull
+- Hash Hash
+- Alles oder Nix
+
+### Disarstar — (Thu warm-up) · [🔍](https://open.spotify.com/search/Disarstar)
+- 7 Leben
+- Monster
+- Tochter
+- Nachbarschaft
+
+### BHZ — (Sun) · [🔍](https://open.spotify.com/search/BHZ)
+- Flasche Luft
+- Bier
+- Powerade
+
+### Edwin Rosen — (Sat) · [🔍](https://open.spotify.com/search/Edwin%20Rosen)
+*Neue Neue Deutsche Welle / synth-post-punk.*
+- leichter//kälter
+- 1119
+- Verschwende deine Zeit
+- Vertigo
+
 ### Betterov — (Fri) · [🔍](https://open.spotify.com/search/Betterov)
 - Olympia
 - Dezember
 - Maschine
 
+### Kaffkiez — (Sat) · [🔍](https://open.spotify.com/search/Kaffkiez)
+- Nie Allein
+- Scheissegal
+- Frei
+
+### Levin Liam — (Sun) · [🔍](https://open.spotify.com/search/Levin%20Liam)
+- Uber X (Kathryn's Song)
+- Wie Du
+- ohne extras
+- Hunde
+
 ### Roy Bianco & Die Abbrunzati Boys — (Sat) · [🔍](https://open.spotify.com/search/Roy%20Bianco%20%26%20Die%20Abbrunzati%20Boys)
-- Italienische Sehnsucht
-- *(+ add their Spotify Top tracks — Italo-schlager party set)*
-
-### SSIO — (Sat) · [🔍](https://open.spotify.com/search/SSIO)
-- Nullkommanull
-- *(+ add Spotify Top 3)*
-
-### Finch — (Sat) · [🔍](https://open.spotify.com/search/Finch%20Asozial)
-- *(German rap — add Spotify Top 3)*
-
-### Edwin Rosen — (Sat) · [🔍](https://open.spotify.com/search/Edwin%20Rosen)
-- leichtes spiel
-- *(+ add Spotify Top 3 — German synth/post-punk)*
-
-### Disarstar — (Thu warm-up) · [🔍](https://open.spotify.com/search/Disarstar)
-- *(German rap — add Spotify Top 3)*
+*Italo-Schlager Party-Set.*
+- Dolce Vita
+- Bella Napoli
+- Velocità
+- Goodbye, Arrivederci
 
 ---
 
 ### 🔎 Weitere / Newcomer-Acts — Spotify Top 3 selbst ziehen
 Hier keine Titel erfunden — einfach durchklicken und Top-Tracks adden:
-- **Kaffkiez** (Sat) · [🔍](https://open.spotify.com/search/Kaffkiez)
-- **BHZ** (Sun) · [🔍](https://open.spotify.com/search/BHZ)
 - **Kasi** (Sat) · [🔍](https://open.spotify.com/search/Kasi)
-- **Levin Liam** (Sun) · [🔍](https://open.spotify.com/search/Levin%20Liam)
 - **Esther Graf** (Fri) · [🔍](https://open.spotify.com/search/Esther%20Graf)
 - **Paula Carolina** (Thu) · [🔍](https://open.spotify.com/search/Paula%20Carolina)
 - **Herrenmagazin** (Thu) · [🔍](https://open.spotify.com/search/Herrenmagazin)

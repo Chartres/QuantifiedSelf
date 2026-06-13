@@ -27,7 +27,11 @@ Late-night-tent energy: techno, bass, dubstep and DJ sets. Import list: [`import
 - Lost
 
 ### Drunken Masters — (Fri) · [🔍](https://open.spotify.com/search/Drunken%20Masters)
-- *(German bass/electro duo — add Spotify Top 3)*
+*German trap/bass duo.*
+- Places
+- Molotow
+- Louder
+- High
 
 ### David Puentez — (Sat) · [🔍](https://open.spotify.com/search/David%20Puentez)
 - *(German DJ/producer — add Spotify Top 3)*
