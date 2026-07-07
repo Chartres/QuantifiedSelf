@@ -1,3 +1,10 @@
 *.json
 *.pyc
 *.csv
+!package.json
+!package-lock.json
+!tsconfig*.json
+node_modules
+dist
+*.tsbuildinfo
+!flywheel.json
