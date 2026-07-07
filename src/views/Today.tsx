@@ -25,6 +25,7 @@ export function Today({ entries, onSave }: TodayProps) {
       wallGapCm: (latestValue(entries, 'wallGapCm') as number | undefined) ?? 0,
       wallAngels: (latestValue(entries, 'wallAngels') as number | undefined) ?? 0,
       hollowHoldSec: (latestValue(entries, 'hollowHoldSec') as number | undefined) ?? 0,
+      wallHoldSec: (latestValue(entries, 'wallHoldSec') as number | undefined) ?? 0,
       energy: (latestValue(entries, 'energy') as 1 | 2 | 3 | 4 | 5 | undefined) ?? 3,
     }),
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -34,11 +35,12 @@ export function Today({ entries, onSave }: TodayProps) {
   const [wallGapCm, setWallGapCm] = useState(defaults.wallGapCm);
   const [wallAngels, setWallAngels] = useState(defaults.wallAngels);
   const [hollowHoldSec, setHollowHoldSec] = useState(defaults.hollowHoldSec);
+  const [wallHoldSec, setWallHoldSec] = useState(defaults.wallHoldSec);
   const [energy, setEnergy] = useState<1 | 2 | 3 | 4 | 5>(defaults.energy);
   const [saved, setSaved] = useState(false);
 
   const handleSave = () => {
-    onSave({ date, wallGapCm, wallAngels, hollowHoldSec, energy });
+    onSave({ date, wallGapCm, wallAngels, hollowHoldSec, wallHoldSec, energy });
     setSaved(true);
     setTimeout(() => setSaved(false), 1800);
   };
@@ -73,6 +75,14 @@ export function Today({ entries, onSave }: TodayProps) {
         unit=" s"
         step={5}
         onChange={setHollowHoldSec}
+      />
+
+      <Stepper
+        label="Stoj u zdi (výdrž)"
+        value={wallHoldSec}
+        unit=" s"
+        step={5}
+        onChange={setWallHoldSec}
       />
 
       <div className="field">

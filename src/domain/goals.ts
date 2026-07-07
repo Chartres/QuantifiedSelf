@@ -1,4 +1,4 @@
-export type GoalMetric = 'wallGapCm' | 'wallAngels' | 'hollowHoldSec';
+export type GoalMetric = 'wallGapCm' | 'wallAngels' | 'hollowHoldSec' | 'wallHoldSec';
 
 export const DEADLINE = '2026-09-30';
 
@@ -7,6 +7,7 @@ export const GOALS: Record<GoalMetric, number> = {
   wallGapCm: 0,
   wallAngels: 10,
   hollowHoldSec: 60,
+  wallHoldSec: 60,
 };
 
 /**

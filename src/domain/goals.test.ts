@@ -3,7 +3,7 @@ import { GOALS, progressToward } from './goals';
 
 describe('GOALS', () => {
   it('has the expected targets', () => {
-    expect(GOALS).toEqual({ wallGapCm: 0, wallAngels: 10, hollowHoldSec: 60 });
+    expect(GOALS).toEqual({ wallGapCm: 0, wallAngels: 10, hollowHoldSec: 60, wallHoldSec: 60 });
   });
 });
 
@@ -32,8 +32,15 @@ describe('progressToward', () => {
     expect(progressToward('hollowHoldSec', 30)).toBeCloseTo(0.5);
   });
 
+  it('wallHoldSec: reaching the goal is full progress', () => {
+    expect(progressToward('wallHoldSec', 60)).toBe(1);
+    expect(progressToward('wallHoldSec', 30)).toBeCloseTo(0.5);
+    expect(progressToward('wallHoldSec', 0)).toBe(0);
+  });
+
   it('caps progress at 1 when a value exceeds its goal', () => {
     expect(progressToward('wallAngels', 20)).toBe(1);
     expect(progressToward('hollowHoldSec', 120)).toBe(1);
+    expect(progressToward('wallHoldSec', 120)).toBe(1);
   });
 });

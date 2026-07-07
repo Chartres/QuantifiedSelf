@@ -1,10 +1,11 @@
-export type Metric = 'wallGapCm' | 'wallAngels' | 'hollowHoldSec' | 'energy';
+export type Metric = 'wallGapCm' | 'wallAngels' | 'hollowHoldSec' | 'wallHoldSec' | 'energy';
 
 export type Entry = {
   date: string; // YYYY-MM-DD
   wallGapCm?: number;
   wallAngels?: number;
   hollowHoldSec?: number;
+  wallHoldSec?: number;
   energy?: 1 | 2 | 3 | 4 | 5;
 };
 

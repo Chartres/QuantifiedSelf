@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { TabBar, type TabId } from './components/TabBar';
 import { Today } from './views/Today';
 import { Trends } from './views/Trends';
+import { Exercises } from './views/Exercises';
 import { Photos } from './views/Photos';
 import type { Entry } from './domain/entries';
 import { upsertEntry } from './domain/entries';
@@ -22,6 +23,7 @@ export default function App() {
       <main className="app__content">
         {tab === 'dnes' && <Today entries={entries} onSave={handleSave} />}
         {tab === 'trendy' && <Trends entries={entries} />}
+        {tab === 'cviceni' && <Exercises />}
         {tab === 'fotky' && <Photos />}
       </main>
       <TabBar active={tab} onChange={setTab} />

@@ -78,4 +78,16 @@ describe('seriesFor', () => {
       { date: '2026-07-03', value: 30 },
     ]);
   });
+
+  it('supports wallHoldSec like the other numeric metrics', () => {
+    const entries: Entry[] = [
+      { date: '2026-07-01', wallHoldSec: 20 },
+      { date: '2026-07-02', wallHoldSec: 35 },
+    ];
+    expect(seriesFor(entries, 'wallHoldSec')).toEqual([
+      { date: '2026-07-01', value: 20 },
+      { date: '2026-07-02', value: 35 },
+    ]);
+    expect(latestValue(entries, 'wallHoldSec')).toBe(35);
+  });
 });

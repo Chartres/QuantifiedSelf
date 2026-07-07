@@ -1,8 +1,9 @@
-export type TabId = 'dnes' | 'trendy' | 'fotky';
+export type TabId = 'dnes' | 'trendy' | 'cviceni' | 'fotky';
 
 const TABS: { id: TabId; label: string; icon: string }[] = [
   { id: 'dnes', label: 'Dnes', icon: '📝' },
   { id: 'trendy', label: 'Trendy', icon: '📈' },
+  { id: 'cviceni', label: 'Cvičení', icon: '🤸' },
   { id: 'fotky', label: 'Fotky', icon: '📷' },
 ];
 

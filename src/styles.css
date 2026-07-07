@@ -269,6 +269,131 @@ body {
   font-size: 12px;
 }
 
+/* Exercises */
+.exercise-section__title {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--color-text-muted);
+  margin: 24px 0 10px;
+}
+
+.exercise-section__title:first-child {
+  margin-top: 0;
+}
+
+.exercise-card {
+  background: var(--color-surface);
+  border-radius: var(--radius);
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.exercise-card__name {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.exercise-card__name-en {
+  color: var(--color-text-muted);
+  font-weight: 400;
+  font-size: 0.85em;
+}
+
+.exercise-card__illustration-wrap {
+  margin: 12px 0;
+  background: var(--color-surface-alt);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+.exercise-illustration {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.exercise-illustration__figure {
+  fill: none;
+  stroke: var(--color-text);
+  stroke-width: 4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.exercise-illustration__figure--ghost {
+  stroke: var(--color-text-muted);
+  opacity: 0.55;
+}
+
+.exercise-illustration__surface {
+  fill: none;
+  stroke: var(--color-border);
+  stroke-width: 3;
+  stroke-linecap: round;
+}
+
+.exercise-illustration__arrow {
+  stroke: var(--color-accent);
+  stroke-width: 2.5;
+  fill: none;
+}
+
+.exercise-illustration__arrowhead {
+  fill: var(--color-accent);
+}
+
+.exercise-illustration__prop {
+  fill: none;
+  stroke: var(--color-text-muted);
+  stroke-width: 3;
+  stroke-linecap: round;
+}
+
+.exercise-card__subtitle {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--color-text-muted);
+  margin: 14px 0 6px;
+}
+
+.exercise-card__steps,
+.exercise-card__mistakes {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.exercise-card__steps li,
+.exercise-card__mistakes li {
+  margin-bottom: 4px;
+  line-height: 1.4;
+}
+
+.exercise-card__dose {
+  font-size: 0.95rem;
+  margin: 12px 0 0;
+}
+
+.exercise-card__dose-label {
+  color: var(--color-text-muted);
+}
+
+.exercise-card__video-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--touch);
+  margin-top: 8px;
+  padding: 0 2px;
+  color: var(--color-accent);
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.exercise-card__video-link:active {
+  color: var(--color-accent-strong);
+}
+
 /* Photos */
 .photos__add-btn {
   width: 100%;

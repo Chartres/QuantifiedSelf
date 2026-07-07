@@ -11,6 +11,7 @@ const METRICS: { metric: Metric; label: string; unit?: string; goal?: GoalMetric
   { metric: 'wallGapCm', label: 'Test u zdi', unit: ' cm', goal: 'wallGapCm' },
   { metric: 'wallAngels', label: 'Wall angels', unit: '×', goal: 'wallAngels' },
   { metric: 'hollowHoldSec', label: 'Hollow hold', unit: ' s', goal: 'hollowHoldSec' },
+  { metric: 'wallHoldSec', label: 'Stoj u zdi', unit: ' s', goal: 'wallHoldSec' },
   { metric: 'energy', label: 'Energie', unit: '' },
 ];
 
